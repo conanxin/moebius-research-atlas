@@ -4,6 +4,12 @@ A digital study of visual language, space, information and narrative — built a
 
 This is **not** a complete catalogue. It is **not** an exhaustive image archive. It is **not** a final theory. It is an ongoing, evidence-led research archive in which models are built, tested against counterexamples, frozen when supported, and revised when they are not.
 
+## Links
+
+- **Repository:** https://github.com/conanxin/moebius-research-atlas
+- **Live Research Atlas:** https://conanxin.github.io/moebius-research-atlas/research-atlas.html
+- **Portal (GitHub Pages root):** https://conanxin.github.io/moebius-research-atlas/
+
 ## Quick links
 
 - **Research Atlas** — [`research-atlas.html`](research-atlas.html)
