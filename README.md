@@ -138,6 +138,19 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md). Contributions must respect:
 - **Asset lineage** must be traceable per file (see [`notes/ASSET_METADATA_SCHEMA.md`](notes/ASSET_METADATA_SCHEMA.md))
 - **Source identification** must precede claim escalation
 
+## Public UX
+
+v0.1.1 improves the public surface without touching any research verdict:
+
+- Public landing page (`index.html`) replaced the prior internal-workspace dashboard with a clean portal.
+- Internal links to non-public resources removed from public HTML.
+- Plain-language glosses added for key model terms (axis names, status codes).
+- Open-source entry point added to both home and atlas footers.
+- In-page table of contents on the Research Atlas.
+- Mobile layout adjustments for comparison grids and the top nav.
+
+A reader-test report (P3) and its v0.1.1 implementation list are archived locally.
+
 ## License
 
 - **Code**: [MIT](LICENSE)
