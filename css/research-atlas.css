@@ -153,6 +153,106 @@ a:hover{border-bottom-color:var(--accent)}
 .atlas-footer p{margin:6px 0}
 .atlas-footer a{color:#d4c89a}
 
+/* ---- public home (index.html) ---- */
+.hero-one-liner{font-size:24px;font-style:italic;margin:24px 0 12px;color:#3a3a3a}
+.hero-one-liner+.container>p,.section>.container>p{font-size:15px;line-height:1.65;color:#2a2a2a}
+
+.portal-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:16px 0 8px}
+.portal-card{display:block;background:var(--paper,#fbfaf6);border:1px solid var(--line,#d8d4c4);border-radius:4px;padding:18px 20px;color:inherit;text-decoration:none;transition:border-color .15s ease,background .15s ease}
+.portal-card:hover{border-color:var(--accent,#8a6f1f);background:#fff}
+.portal-card h3{margin:0 0 6px;font-size:16px;color:#1a1a1a}
+.portal-card p{margin:0 0 8px;font-size:13px;color:#3a3a3a;line-height:1.5}
+.portal-eyebrow{font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:#8a6f1f;margin-bottom:4px}
+.portal-meta{font-size:11px;color:#6a6a5e;font-style:italic}
+.portal-primary{border-color:var(--accent,#8a6f1f);background:#fff}
+.portal-primary h3{font-size:18px}
+
+.about-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:8px 0}
+.about-card{background:var(--paper,#fbfaf6);border:1px solid var(--line,#d8d4c4);border-radius:4px;padding:16px 18px}
+.about-card h4{margin:0 0 8px;font-size:14px;color:#1a1a1a;text-transform:uppercase;letter-spacing:.04em}
+.about-card p{margin:0;font-size:13px;line-height:1.55;color:#2a2a2a}
+
+.open-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:8px 0}
+.open-card{display:block;background:var(--paper,#fbfaf6);border:1px solid var(--line,#d8d4c4);border-radius:3px;padding:14px 16px;color:inherit;text-decoration:none;transition:border-color .15s ease}
+.open-card:hover{border-color:var(--accent,#8a6f1f)}
+.open-card h4{margin:0 0 4px;font-size:14px;color:#1a1a1a}
+.open-card p{margin:0;font-size:12px;color:#5a5a4e;line-height:1.4}
+.open-eyebrow{font-size:9px;text-transform:uppercase;letter-spacing:.12em;color:#8a6f1f;margin-bottom:3px}
+
+.status-lede{font-size:15px;font-style:italic;color:#3a3a3a;margin:8px 0 16px}
+.status-table{width:100%;border-collapse:collapse;margin:16px 0;font-size:13px}
+.status-table th,.status-table td{padding:10px 12px;border:1px solid var(--line,#d8d4c4);text-align:left;vertical-align:top}
+.status-table th{background:var(--paper,#fbfaf6);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+.status-table tbody tr:nth-child(odd) td{background:#fbfaf6}
+.status-footnote{font-size:12px;color:#5a5a4e;margin-top:12px}
+
+/* ---- status badges (new colors for public home) ---- */
+.badge{display:inline-block;padding:3px 8px;border-radius:3px;font-size:11px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;border:1px solid transparent;background:#fff;color:#1a1a1a}
+.badge-supported-with-limits{background:#f5edd0;border-color:#c4a830;color:#5a4500}
+.badge-partial{background:#e6e1c8;border-color:#998f5a;color:#3a3a1f}
+.badge-open-frozen{background:#dde5e8;border-color:#6a7a82;color:#2a3a44}
+.badge-exhausted{background:#e8e0d8;border-color:#7a7060;color:#3a2a1f}
+
+/* ---- footer ---- */
+.atlas-footer{background:#1a1a1a;color:#cfcab8;padding:32px 0 24px;margin-top:48px;font-size:13px}
+.atlas-footer .container{max-width:1100px;margin:0 auto;padding:0 24px}
+.footer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;margin-bottom:16px}
+.footer-grid h5{margin:0 0 8px;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:#d4c89a}
+.footer-grid ul{margin:0;padding:0;list-style:none}
+.footer-grid li{margin-bottom:4px;font-size:12px;line-height:1.5}
+.footer-meta{font-size:11px;color:#9a9480;margin-top:16px;border-top:1px solid #3a3a3a;padding-top:16px;line-height:1.5}
+
+/* ---- responsive additions for public home ---- */
+@media (max-width:768px){
+ .portal-grid,.about-grid,.open-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
+ .status-table{font-size:12px}
+ .status-table th,.status-table td{padding:8px}
+ .footer-grid{grid-template-columns:1fr}
+}
+@media (max-width:390px){
+ .hero-one-liner{font-size:18px}
+ .portal-grid,.about-grid,.open-grid{grid-template-columns:1fr}
+ .atlas-nav a{font-size:11px;padding:3px 6px;white-space:nowrap}
+ .atlas-nav{display:flex;flex-wrap:wrap;gap:4px 8px}
+ .status-table{display:block;overflow-x:auto;white-space:nowrap}
+}
+
+/* ---- v0.1.1 additions ---- */
+.hero-status-gloss{font-size:13px;line-height:1.55;color:#3a3a3a;margin:0 0 24px;padding:10px 14px;border-left:3px solid var(--accent,#8a6f1f);background:var(--paper,#fbfaf6)}
+.section-bridge{font-size:15px;line-height:1.65;color:#2a2a2a;margin:16px 0 8px;padding:8px 14px;background:var(--paper,#fbfaf6);border-left:2px solid var(--line,#d8d4c4)}
+.status-gloss{font-size:13px;line-height:1.55;color:#3a3a3a;margin:8px 0 12px;padding:8px 12px;background:var(--paper,#fbfaf6);border-left:2px solid var(--line,#d8d4c4)}
+.status-gloss a{color:var(--accent,#8a6f1f)}
+
+.axis-gloss{display:block;font-weight:400;font-size:13px;color:#3a3a3a;margin:2px 0 8px;line-height:1.4}
+dl.regime-dims{margin:8px 0}
+dl.regime-dims dt{font-size:14px;color:#1a1a1a;font-weight:600;margin-top:6px}
+dl.regime-dims div{margin-bottom:4px}
+
+.quad-public-label{display:block;font-size:13px;font-weight:600;color:#1a1a1a;margin-bottom:4px}
+.quad-meta{display:block;font-size:11px;color:#6a6a5e;font-style:italic;margin-top:4px}
+.matrix-2x2 td{padding:12px 10px}
+
+.atlas-toc{background:var(--paper,#fbfaf6);border-top:1px solid var(--line,#d8d4c4);border-bottom:1px solid var(--line,#d8d4c4);padding:16px 0}
+.atlas-toc .container{max-width:1100px;margin:0 auto;padding:0 24px}
+.toc-title{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:#8a6f1f;margin:0 0 8px;font-weight:600}
+.toc-list{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px}
+.toc-list a{color:#3a3a3a;text-decoration:none;padding:2px 0;border-bottom:1px solid transparent}
+.toc-list a:hover{color:var(--accent,#8a6f1f);border-bottom-color:var(--accent,#8a6f1f)}
+
+/* footer already has .footer-grid etc from index additions; tighten */
+.footer-grid h5{margin:0 0 8px;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:#d4c89a;font-weight:600}
+
+/* ---- mobile: keep matrix-2x2 + counter-grid two-column where readable ---- */
+@media (max-width:768px){
+ .toc-list{gap:6px 12px}
+ .matrix-2x2 th,.matrix-2x2 td{padding:10px 6px;font-size:12px}
+}
+@media (max-width:390px){
+ .matrix-2x2{font-size:11px}
+ .toc-list li{flex:0 0 auto}
+ .atlas-toc .container{padding:0 12px}
+}
+
 /* responsive */
 @media (max-width:768px){
  .atlas-header h1{font-size:22px}
