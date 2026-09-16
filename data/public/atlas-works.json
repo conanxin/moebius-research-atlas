@@ -1,0 +1,282 @@
+[
+  {
+    "work_id": "W-LCC-VOL1",
+    "title": "Le Cœur couronné Vol.1 (1992)",
+    "period": "1992",
+    "status": "VERIFIED_STORY_PAGE",
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "note": "French original standalone scan"
+  },
+  {
+    "work_id": "W-LCC-VOL2",
+    "title": "Le Cœur couronné Vol.2 (1993)",
+    "period": "1993",
+    "status": "VERIFIED_STORY_PAGE",
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "note": "Brazilian omnibus translation; page order preserved"
+  },
+  {
+    "work_id": "W-LCC-VOL3",
+    "title": "Le Cœur couronné Vol.3 (1998)",
+    "period": "1998",
+    "status": "VERIFIED_STORY_PAGE",
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "note": "Brazilian omnibus translation; page order preserved"
+  },
+  {
+    "work_id": "W-40D-99",
+    "title": "40 Jours dans le Désert B (1999)",
+    "period": "1999",
+    "status": "VERIFIED_STORY_PAGE",
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "note": "Scan resolution 904px medium; Stel WOE Ch.4 (2016 reprint)"
+  },
+  {
+    "work_id": "W-WOE-STEL-16",
+    "title": "World of Edena Ch.4 Stel (2016 reprint)",
+    "period": "1992 (signed) / 2016 (reprint)",
+    "status": "VERIFIED_STORY_PAGE",
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "note": "2016 coloring reissue; line/composition verifiable; color caveat applies"
+  },
+  {
+    "work_id": "W-70S-ASF",
+    "title": "70s work (W-70S-ASF) — see P0.5 lineage audit",
+    "period": "1975-79",
+    "status": "RECOVERED_LINEAGE",
+    "claim_id": "claim: 1970s parallel experiment model",
+    "note": "Source: TAOM 1989 reproduction or moebius.fr harvest"
+  },
+  {
+    "work_id": "W-70S-CARNET-76",
+    "title": "70s work (W-70S-CARNET-76) — see P0.5 lineage audit",
+    "period": "1975-79",
+    "status": "RECOVERED_LINEAGE",
+    "claim_id": "claim: 1970s parallel experiment model",
+    "note": "Source: TAOM 1989 reproduction or moebius.fr harvest"
+  },
+  {
+    "work_id": "W-70S-LT-01",
+    "title": "70s work (W-70S-LT-01) — see P0.5 lineage audit",
+    "period": "1975-79",
+    "status": "RECOVERED_LINEAGE",
+    "claim_id": "claim: 1970s parallel experiment model",
+    "note": "Source: TAOM 1989 reproduction or moebius.fr harvest"
+  },
+  {
+    "work_id": "W-70S-LT-02",
+    "title": "70s work (W-70S-LT-02) — see P0.5 lineage audit",
+    "period": "1975-79",
+    "status": "RECOVERED_LINEAGE",
+    "claim_id": "claim: 1970s parallel experiment model",
+    "note": "Source: TAOM 1989 reproduction or moebius.fr harvest"
+  },
+  {
+    "work_id": "W-70S-WINTER",
+    "title": "70s work (W-70S-WINTER) — see P0.5 lineage audit",
+    "period": "1975-79",
+    "status": "RECOVERED_LINEAGE",
+    "claim_id": "claim: 1970s parallel experiment model",
+    "note": "Source: TAOM 1989 reproduction or moebius.fr harvest"
+  },
+  {
+    "work_id": "W-70S-ARZ-02",
+    "title": "70s work (W-70S-ARZ-02) — see P0.5 lineage audit",
+    "period": "1975-79",
+    "status": "RECOVERED_LINEAGE",
+    "claim_id": "claim: 1970s parallel experiment model",
+    "note": "Source: TAOM 1989 reproduction or moebius.fr harvest"
+  },
+  {
+    "work_id": "W-S018-152",
+    "title": "80s catalog (W-S018-152)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "W-S018-153",
+    "title": "80s catalog (W-S018-153)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "W-S019-612",
+    "title": "80s catalog (W-S019-612)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "W-S019-613",
+    "title": "80s catalog (W-S019-613)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "W-S019-614",
+    "title": "80s catalog (W-S019-614)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "W-S019-615",
+    "title": "80s catalog (W-S019-615)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "W-S019-425",
+    "title": "80s catalog (W-S019-425)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "W-S019-447",
+    "title": "80s catalog (W-S019-447)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "W-S019-448",
+    "title": "80s catalog (W-S019-448)",
+    "period": "varies",
+    "status": "IDENTITY_SOURCE_IDENTIFIED · IMAGE_MATCH_PENDING",
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "note": "catalog-render only; identity verified at SOURCE_IDENTIFIED level"
+  },
+  {
+    "work_id": "BOARD:1970S_MASTER_ARC",
+    "title": "1970S MASTER ARC",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:MOEBIUS_MASTER_STABLE_HAND",
+    "title": "MOEBIUS MASTER STABLE HAND",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:MOEBIUS_INFORMATION_REGIMES",
+    "title": "MOEBIUS INFORMATION REGIMES",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:CROSS_DECADE_STABLE_HAND",
+    "title": "CROSS DECADE STABLE HAND",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:CROSS_DECADE_INFORMATION_REGIMES",
+    "title": "CROSS DECADE INFORMATION REGIMES",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:CROSS_DECADE_COUNTEREXAMPLES",
+    "title": "CROSS DECADE COUNTEREXAMPLES",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:MOEBIUS_MODEL_COUNTEREXAMPLES",
+    "title": "MOEBIUS MODEL COUNTEREXAMPLES",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:MACHINE_STATES_TIMELINE",
+    "title": "MACHINE STATES TIMELINE",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:MACHINE_FUNCTION_ONTOLOGY",
+    "title": "MACHINE FUNCTION ONTOLOGY",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:HUMAN_MACHINE_RELATIONS",
+    "title": "HUMAN MACHINE RELATIONS",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:CREATOR_WORLD_BOUNDARY",
+    "title": "CREATOR WORLD BOUNDARY",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:CREATOR_WORLD_CONTROL_AXIS",
+    "title": "CREATOR WORLD CONTROL AXIS",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:RELATION_ONTOLOGY_2X2",
+    "title": "RELATION ONTOLOGY 2X2",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:CRYSTAL_STATES_SPECTRUM",
+    "title": "CRYSTAL STATES SPECTRUM",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  },
+  {
+    "work_id": "BOARD:CRYSTAL_MACHINE_ENERGY",
+    "title": "CRYSTAL MACHINE ENERGY",
+    "period": "N/A",
+    "status": "DERIVED_BOARD_RESEARCH_VISUALIZATION",
+    "claim_id": "visual support",
+    "note": "research diagram; not primary artwork"
+  }
+]

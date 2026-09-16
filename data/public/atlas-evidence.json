@@ -1,0 +1,662 @@
+[
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1992_coeur_couronne_t1/pages/c1_03.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1992_coeur_couronne_t1/pages/c1_03.jpg",
+    "public_path": "assets/public/1990s/coeur_v1/000_c1_03.jpg",
+    "sha256": "e149130a97ecf896",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1992_coeur_couronne_t1/pages/c1_04.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1992_coeur_couronne_t1/pages/c1_04.jpg",
+    "public_path": "assets/public/1990s/coeur_v1/001_c1_04.jpg",
+    "sha256": "c721d05510f76a14",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1992_coeur_couronne_t1/pages/c1_05.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1992_coeur_couronne_t1/pages/c1_05.jpg",
+    "public_path": "assets/public/1990s/coeur_v1/002_c1_05.jpg",
+    "sha256": "290333bc79d47f6b",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1992_coeur_couronne_t1/pages/c1_06.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1992_coeur_couronne_t1/pages/c1_06.jpg",
+    "public_path": "assets/public/1990s/coeur_v1/003_c1_06.jpg",
+    "sha256": "4eae0f6bc3ced236",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1992_coeur_couronne_t1/pages/c1_07.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1992_coeur_couronne_t1/pages/c1_07.jpg",
+    "public_path": "assets/public/1990s/coeur_v1/004_c1_07.jpg",
+    "sha256": "60c41a7fe63201bf",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1992_coeur_couronne_t1/pages/c1_08.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1992_coeur_couronne_t1/pages/c1_08.jpg",
+    "public_path": "assets/public/1990s/coeur_v1/005_c1_08.jpg",
+    "sha256": "df5d267a8d4b6e0e",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_082.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_082.jpg",
+    "public_path": "assets/public/1990s/coeur_v2/006_mw_082.jpg",
+    "sha256": "d5e81ac18bc9edac",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_083.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_083.jpg",
+    "public_path": "assets/public/1990s/coeur_v2/007_mw_083.jpg",
+    "sha256": "e85e6a99fccaa4ea",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_084.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_084.jpg",
+    "public_path": "assets/public/1990s/coeur_v2/008_mw_084.jpg",
+    "sha256": "0863e2a6a6eb204f",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_085.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_085.jpg",
+    "public_path": "assets/public/1990s/coeur_v2/009_mw_085.jpg",
+    "sha256": "286bbdad1238b627",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_086.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_086.jpg",
+    "public_path": "assets/public/1990s/coeur_v2/010_mw_086.jpg",
+    "sha256": "044bd7d2b07de578",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_087.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_087.jpg",
+    "public_path": "assets/public/1990s/coeur_v2/011_mw_087.jpg",
+    "sha256": "cb497cdba17d2423",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_146.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_146.jpg",
+    "public_path": "assets/public/1990s/coeur_v3/012_mw_146.jpg",
+    "sha256": "6a4cc07d4c29fc73",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_147.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_147.jpg",
+    "public_path": "assets/public/1990s/coeur_v3/013_mw_147.jpg",
+    "sha256": "34c46e7d3c0319b8",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_148.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_148.jpg",
+    "public_path": "assets/public/1990s/coeur_v3/014_mw_148.jpg",
+    "sha256": "0a1273b63137e739",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_149.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_149.jpg",
+    "public_path": "assets/public/1990s/coeur_v3/015_mw_149.jpg",
+    "sha256": "b63a36facfcac81d",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_150.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_150.jpg",
+    "public_path": "assets/public/1990s/coeur_v3/016_mw_150.jpg",
+    "sha256": "40dd36fe50e93fc6",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/madwoman_collected/pages/mw_151.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/madwoman_collected/pages/mw_151.jpg",
+    "public_path": "assets/public/1990s/coeur_v3/017_mw_151.jpg",
+    "sha256": "efd33de68790969b",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1999_40_jours_desert_b/pages/pg05.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1999_40_jours_desert_b/pages/pg05.jpg",
+    "public_path": "assets/public/1990s/40days/018_pg05.jpg",
+    "sha256": "42410748cd415157",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1999_40_jours_desert_b/pages/pg06.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1999_40_jours_desert_b/pages/pg06.jpg",
+    "public_path": "assets/public/1990s/40days/019_pg06.jpg",
+    "sha256": "b171758169d01b2f",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1999_40_jours_desert_b/pages/pg07.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1999_40_jours_desert_b/pages/pg07.jpg",
+    "public_path": "assets/public/1990s/40days/020_pg07.jpg",
+    "sha256": "1e0293de97adc166",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1999_40_jours_desert_b/pages/pg08.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1999_40_jours_desert_b/pages/pg08.jpg",
+    "public_path": "assets/public/1990s/40days/021_pg08.jpg",
+    "sha256": "4bdfffbb69112400",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1999_40_jours_desert_b/pages/pg09.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1999_40_jours_desert_b/pages/pg09.jpg",
+    "public_path": "assets/public/1990s/40days/022_pg09.jpg",
+    "sha256": "95c9347ebba1f920",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/1999_40_jours_desert_b/pages/pg10.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/1999_40_jours_desert_b/pages/pg10.jpg",
+    "public_path": "assets/public/1990s/40days/023_pg10.jpg",
+    "sha256": "11f62c5111a55ca7",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/2016_world_of_edena/pages/woe_211.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/2016_world_of_edena/pages/woe_211.jpg",
+    "public_path": "assets/public/1990s/stel/024_woe_211.jpg",
+    "sha256": "a3492b5ecd9419e4",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/2016_world_of_edena/pages/woe_212.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/2016_world_of_edena/pages/woe_212.jpg",
+    "public_path": "assets/public/1990s/stel/025_woe_212.jpg",
+    "sha256": "a785cb6103f07f04",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/2016_world_of_edena/pages/woe_213.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/2016_world_of_edena/pages/woe_213.jpg",
+    "public_path": "assets/public/1990s/stel/026_woe_213.jpg",
+    "sha256": "73231f46bee0fda8",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/2016_world_of_edena/pages/woe_214.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/2016_world_of_edena/pages/woe_214.jpg",
+    "public_path": "assets/public/1990s/stel/027_woe_214.jpg",
+    "sha256": "88dcac4e71573a87",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/2016_world_of_edena/pages/woe_215.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/2016_world_of_edena/pages/woe_215.jpg",
+    "public_path": "assets/public/1990s/stel/028_woe_215.jpg",
+    "sha256": "a68af8473629b176",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "work_id": "BOOK",
+    "asset_id": "BOOK:raw/books/2016_world_of_edena/pages/woe_216.jpg",
+    "asset_role": "story_page_visual_evidence",
+    "source_path": "raw/books/2016_world_of_edena/pages/woe_216.jpg",
+    "public_path": "assets/public/1990s/stel/029_woe_216.jpg",
+    "sha256": "b2a72fe2158e3e73",
+    "evidence_role": "PRIMARY"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:1970S_MASTER_ARC.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/1970S_MASTER_ARC.jpg",
+    "public_path": "assets/public/1970s/030_n_a_1970S_MASTER_ARC.jpg",
+    "sha256": "3f641a52f0e9bff1",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:1980S_ARC.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/1980S_ARC.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/031_n_a_1980S_ARC.jpg",
+    "sha256": "3e980fc33632cc78",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:CROSS_DECADE_INFORMATION_REGIMES.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/CROSS_DECADE_INFORMATION_REGIMES.jpg",
+    "public_path": "assets/public/research/032_CROSS_DECADE_INFORMATION_REGIMES.jpg",
+    "sha256": "201f5e1d323fdd9c",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:MOEBIUS_MASTER_STABLE_HAND.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/MOEBIUS_MASTER_STABLE_HAND.jpg",
+    "public_path": "assets/public/research/033_MOEBIUS_MASTER_STABLE_HAND.jpg",
+    "sha256": "18dab590df0d39ff",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:MOEBIUS_INFORMATION_REGIMES.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/MOEBIUS_INFORMATION_REGIMES.jpg",
+    "public_path": "assets/public/research/034_MOEBIUS_INFORMATION_REGIMES.jpg",
+    "sha256": "7a17b57c98ffdbd4",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:MACHINE_STATES_TIMELINE.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/MACHINE_STATES_TIMELINE.jpg",
+    "public_path": "assets/public/research/035_MACHINE_STATES_TIMELINE.jpg",
+    "sha256": "59d76ee012f67a56",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:MACHINE_FUNCTION_ONTOLOGY.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/MACHINE_FUNCTION_ONTOLOGY.jpg",
+    "public_path": "assets/public/research/036_MACHINE_FUNCTION_ONTOLOGY.jpg",
+    "sha256": "7059ee9a9d867dab",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:CRYSTAL_STATES_SPECTRUM.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/CRYSTAL_STATES_SPECTRUM.jpg",
+    "public_path": "assets/public/research/037_CRYSTAL_STATES_SPECTRUM.jpg",
+    "sha256": "b2f5204211653e01",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:CRYSTAL_MACHINE_ENERGY.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/CRYSTAL_MACHINE_ENERGY.jpg",
+    "public_path": "assets/public/research/038_CRYSTAL_MACHINE_ENERGY.jpg",
+    "sha256": "ae9e3d50fd3dd04a",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:CREATOR_WORLD_BOUNDARY.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/CREATOR_WORLD_BOUNDARY.jpg",
+    "public_path": "assets/public/research/039_CREATOR_WORLD_BOUNDARY.jpg",
+    "sha256": "469f245740f5fa31",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:CREATOR_WORLD_CONTROL_AXIS.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/CREATOR_WORLD_CONTROL_AXIS.jpg",
+    "public_path": "assets/public/research/040_CREATOR_WORLD_CONTROL_AXIS.jpg",
+    "sha256": "799fd64fb8b694a0",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:HUMAN_MACHINE_RELATIONS.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/HUMAN_MACHINE_RELATIONS.jpg",
+    "public_path": "assets/public/research/041_HUMAN_MACHINE_RELATIONS.jpg",
+    "sha256": "02e7f245ef6879a8",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:RELATION_ONTOLOGY_2X2.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/RELATION_ONTOLOGY_2X2.jpg",
+    "public_path": "assets/public/research/042_RELATION_ONTOLOGY_2X2.jpg",
+    "sha256": "6e713a371a18b87b",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:MOEBIUS_MODEL_COUNTEREXAMPLES.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/MOEBIUS_MODEL_COUNTEREXAMPLES.jpg",
+    "public_path": "assets/public/research/043_MOEBIUS_MODEL_COUNTEREXAMPLES.jpg",
+    "sha256": "d80adedeabb5bbba",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:CROSS_DECADE_STABLE_HAND.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/CROSS_DECADE_STABLE_HAND.jpg",
+    "public_path": "assets/public/research/044_CROSS_DECADE_STABLE_HAND.jpg",
+    "sha256": "ebf9c845b5329f7c",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:CROSS_DECADE_COUNTEREXAMPLES.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/CROSS_DECADE_COUNTEREXAMPLES.jpg",
+    "public_path": "assets/public/research/045_CROSS_DECADE_COUNTEREXAMPLES.jpg",
+    "sha256": "65659c05214af1c1",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:1980S_PROJECT_LANGUAGES.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/1980S_PROJECT_LANGUAGES.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/046_n_a_1980S_PROJECT_LANGUAGES.jpg",
+    "sha256": "198f1cdd6fdcffc2",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:1970S_INFORMATION_REGIMES.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/1970S_INFORMATION_REGIMES.jpg",
+    "public_path": "assets/public/1970s/047_n_a_1970S_INFORMATION_REGIMES.jpg",
+    "sha256": "e4bea8b4d66dfb23",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:1970S_STABLE_HAND.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/1970S_STABLE_HAND.jpg",
+    "public_path": "assets/public/1970s/048_n_a_1970S_STABLE_HAND.jpg",
+    "sha256": "bcefb9803a6ef2b0",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:1970S_ORIGINS_PREVIEW.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/1970S_ORIGINS_PREVIEW.jpg",
+    "public_path": "assets/public/1970s/049_n_a_1970S_ORIGINS_PREVIEW.jpg",
+    "sha256": "ccfa7d1f51ae1e7b",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: visual support",
+    "work_id": "BOARD",
+    "asset_id": "BOARD:SESSION07_GIR_DEVIATION_ARZACH_V2.jpg",
+    "asset_role": "research_visualization_board",
+    "source_path": "review/studies/SESSION07_GIR_DEVIATION_ARZACH_V2.jpg",
+    "public_path": "assets/public/1970s/050_n_a_SESSION07_GIR_DEVIATION_ARZACH_V2.jpg",
+    "sha256": "c113c2b58f17b45a",
+    "evidence_role": "SECONDARY_BOARD"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S018-152",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S018_p076_lot152_Moebius_NewYork-076.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/051_s018_152_S018_p076_lot152_Moebius_NewYork-076.jpg",
+    "sha256": "599fe33bb0ede394",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S018-153",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S018_p077_lot153_Moebius_Starwatcher-077.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/052_s018_153_S018_p077_lot153_Moebius_Starwatcher-077.jpg",
+    "sha256": "ffdb8c6c7906123a",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S019-612",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S019_p186_lot612_Moebius_VoyageCorpsInfidele-186.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/053_s019_612_S019_p186_lot612_Moebius_VoyageCorpsInfidele-186.jpg",
+    "sha256": "40c666625af0ab21",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S019-613",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S019_p188_lot613_Moebius_Edena_Stel-188.jpg",
+    "public_path": "assets/public/research/054_S019_p188_lot613_Moebius_Edena_Stel-188.jpg",
+    "sha256": "edcbfb0227b71bb5",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S019-614",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S019_p189_lot614_Moebius_VeniseCeleste-189.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/055_s019_614_S019_p189_lot614_Moebius_VeniseCeleste-189.jpg",
+    "sha256": "b9c2ce974afa95e7",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S019-615",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S019_p190_lot615_Moebius_CiteDeFeu-190.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/056_s019_615_S019_p190_lot615_Moebius_CiteDeFeu-190.jpg",
+    "sha256": "ebfabc00cbe55c8b",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S019-425",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S019_p091_lots425_426_Moebius_Portfolio_Mystere-091.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/057_s019_425_S019_p091_lots425_426_Moebius_Portfolio_Mystere-091.jpg",
+    "sha256": "f568645264d4c263",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S019-447",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S019_p097_lots447_448_Moebius_YeuxDuChat_Edena4-097.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/058_s019_447_S019_p097_lots447_448_Moebius_YeuxDuChat_Edena4-097.jpg",
+    "sha256": "2d92f11b4a97fb80",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "work_id": "CATALOG",
+    "asset_id": "CATALOG:W-S019-448",
+    "asset_role": "catalog_render_visual_evidence",
+    "source_path": "derived/catalogue_pages/S019_p098_lots447_448_Moebius_Starwatcher_pages-098.jpg",
+    "public_path": "assets/public/1980s/catalog_renders/059_s019_448_S019_p098_lots447_448_Moebius_Starwatcher_pages-098.jpg",
+    "sha256": "dbb136eb94d65b5f",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1970s parallel experiment model",
+    "work_id": "70S",
+    "asset_id": "70S:W-70S-ASF",
+    "asset_role": "publication_reproduction_page",
+    "source_path": "raw/books/the_art_of_moebius_1989/pages/AOM0016.jpg",
+    "public_path": "assets/public/1970s/taom_1989_reproduction/060_asf_AOM0016.jpg",
+    "sha256": "ce4b2934009dfad6",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1970s parallel experiment model",
+    "work_id": "70S",
+    "asset_id": "70S:W-70S-CARNET-76",
+    "asset_role": "site_harvest_full_artwork",
+    "source_path": "raw/images/I003.jpg",
+    "public_path": "assets/public/1970s/site_harvest/061_carnet-76_I003.jpg",
+    "sha256": "0fa0a3788ab9d503",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1970s parallel experiment model",
+    "work_id": "70S",
+    "asset_id": "70S:W-70S-LT-01",
+    "asset_role": "publication_reproduction_page",
+    "source_path": "raw/books/the_art_of_moebius_1989/pages/AOM0013.jpg",
+    "public_path": "assets/public/1970s/taom_1989_reproduction/062_lt-01_AOM0013.jpg",
+    "sha256": "2d8ec654f2ba5b21",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1970s parallel experiment model",
+    "work_id": "70S",
+    "asset_id": "70S:W-70S-LT-02",
+    "asset_role": "publication_reproduction_page",
+    "source_path": "raw/books/the_art_of_moebius_1989/pages/AOM0014.jpg",
+    "public_path": "assets/public/1970s/taom_1989_reproduction/063_lt-02_AOM0014.jpg",
+    "sha256": "8ca4632a5b22a090",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1970s parallel experiment model",
+    "work_id": "70S",
+    "asset_id": "70S:W-70S-WINTER",
+    "asset_role": "publication_reproduction_page",
+    "source_path": "raw/books/the_art_of_moebius_1989/pages/AOM0032.jpg",
+    "public_path": "assets/public/1970s/taom_1989_reproduction/064_winter_AOM0032.jpg",
+    "sha256": "4fc5b3e7cfc7817d",
+    "evidence_role": "CATALOG_RENDER"
+  },
+  {
+    "claim_id": "claim: 1970s parallel experiment model",
+    "work_id": "70S",
+    "asset_id": "70S:W-70S-ARZ-02",
+    "asset_role": "site_harvest_full_artwork",
+    "source_path": "raw/images/1be6406530a915c1.jpg",
+    "public_path": "assets/public/1970s/site_harvest/065_arz-02_1be6406530a915c1.jpg",
+    "sha256": "1be6406530a915c1",
+    "evidence_role": "CATALOG_RENDER"
+  }
+]

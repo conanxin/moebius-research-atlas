@@ -1,0 +1,98 @@
+[
+  {
+    "claim_id": "claim: 1970s parallel experiment model",
+    "title": "1970s parallel experiment model",
+    "statement": "1970s Gir/Mœbius parallel experiments formed multi-regime foundation; not a linear style evolution.",
+    "status": "COMPLETE_AND_LOCKED",
+    "scope": "1973-1979",
+    "limitations": "Cannot reproduce raw 1970s scans locally; La Déviation / Bandard Fou / Garage Hermétique use TEXT_ONLY_IN_P1"
+  },
+  {
+    "claim_id": "claim: 1980s task-conditioned variation",
+    "title": "1980s same-decade different-task variation",
+    "statement": "Same decade / different project tasks produce different visual regimes; simple linear chronology insufficient.",
+    "status": "SUPPORTED_WITH_LIMITS",
+    "scope": "1983-1988",
+    "limitations": "catalog-renders identity SOURCE_IDENTIFIED only; image_match_status=PENDING for most 80s works"
+  },
+  {
+    "claim_id": "claim: Stable Spatial Hand",
+    "title": "Stable Spatial Hand",
+    "statement": "Cross-decade invariant: contour/silhouette control + spatial readability + physical legibility of strange forms.",
+    "status": "SUPPORTED_WITH_LIMITS",
+    "scope": "1970s-1990s cross-decade",
+    "limitations": "Scale shift / deep staging are RESOURCES not invariants. Does not explain \"why reading feels unstable\"."
+  },
+  {
+    "claim_id": "claim: Task-Conditioned Information Regime",
+    "title": "Task-Conditioned Information Regime",
+    "statement": "Information delivery dimensions (TEXT_AMOUNT, WORLD_EXPLANATION, EVENT_CAUSALITY, FUNCTIONAL_INFORMATION, VISUAL_AUTONOMY, PANEL_DENSITY) vary by task/project condition.",
+    "status": "SUPPORTED_WITH_LIMITS",
+    "scope": "multi-corpus",
+    "limitations": "No dimensional coverage for tonal/register behavior"
+  },
+  {
+    "claim_id": "claim: Strange Object Readability",
+    "title": "Strange Object Readability (5-axis framework)",
+    "statement": "Function × Ontology × Physics × Human Relation × Space Role; relation can be legible before identity/ontology settles.",
+    "status": "SUPPORTED_AS_FRAMEWORK_EXTENSION",
+    "scope": "Phase 5A",
+    "limitations": "MACHINE_GATE only after OBJECT_GATE; no creatures / architecture without technical evidence"
+  },
+  {
+    "claim_id": "claim: Relation First / Ontology Deferred",
+    "title": "Relation First / Ontology Deferred (WORKING_MODEL_V0.1)",
+    "statement": "Relations may become legible before identity/ontology becomes settled; Q1 default dominates, Q3 minority cases.",
+    "status": "WORKING_MODEL_V0.1",
+    "scope": "cross-corpus",
+    "limitations": "NOT upgraded to artist theory; CE-A/B/C definitions frozen before future reading"
+  },
+  {
+    "claim_id": "claim: Crystal as project vocabulary",
+    "title": "Crystal / Energy as project vocabulary",
+    "statement": "Crystal is best treated as PROJECT VOCABULARY (Futurs Magiques 1983-84 + Cristal Saga 1986), not career-wide persistent motif.",
+    "status": "COMPLETE_WITH_ITEM_ASSET_LIMITATION",
+    "scope": "80s portfolios",
+    "limitations": "Cristal Saga item-level local plate-front mapping EXHAUSTED; do not repair"
+  },
+  {
+    "claim_id": "claim: BODY_AS_NARRATIVE_RESOURCE",
+    "title": "Body as Narrative Resource",
+    "statement": "Important events frequently happen to bodies first and are interpreted afterward. Three-volume recurrence in Cœur; partial replication outside.",
+    "status": "PROJECT_LIMITED_WITHIN_CURRENT_NON_COEUR_90S_TEST",
+    "scope": "Cœur V1/V2/V3 + Stel + 40 Days",
+    "limitations": "40 Days B does NOT meet threshold; FOURTH_LAYER_CANDIDATE_STATUS=NOT_READY_FOR_MODEL_PROMOTION; Phase 6B-R fresh-context replication is the NEXT gate"
+  },
+  {
+    "claim_id": "claim: BODY_VISIBILITY != NARRATIVE_CAUSALITY",
+    "title": "Counterexample: Stel vs 40 Days",
+    "statement": "High body visibility does not imply high narrative causality. Stel MEETS_THRESHOLD; 40 Days DOES_NOT_MEET_THRESHOLD.",
+    "status": "PHASE6B_DECISION=PARTIAL_1_OF_2",
+    "scope": "Stel + 40 Days B",
+    "limitations": "Reviewer Blindness Caveat: PARTIAL_NOT_FULL; fresh-context replication needed for Master Model promotion"
+  },
+  {
+    "claim_id": "claim: 1986 machine unresolved",
+    "title": "1986 machine provenance",
+    "statement": "1986 machine: artist signed 1986 confirmed; title and publication unresolved. Status OPEN_FROZEN_LOW.",
+    "status": "OPEN_FROZEN_LOW",
+    "scope": "1 visual",
+    "limitations": "Do not assign title or publication for page completeness"
+  },
+  {
+    "claim_id": "claim: Cristal Saga EXHAUSTED",
+    "title": "Cristal Saga item-level mapping",
+    "statement": "Cristal Saga item-level local asset mapping EXHAUSTED. Corpus-level evidence strong; individual plate-fronts not derivable.",
+    "status": "EXHAUSTED",
+    "scope": "10 plates corpus-level",
+    "limitations": "Do not attempt further item-level repair"
+  },
+  {
+    "claim_id": "claim: Reading Discipline FORMALIZATION_READY",
+    "title": "Reading Discipline (CHARACTER_OR_PUBLIC_INTERPRETATION_NE_WORK_INTERPRETATION)",
+    "statement": "Character-level or public-discourse interpretation must not automatically be upgraded to work-level interpretation.",
+    "status": "FORMALIZATION_READY · NON_COEUR_VALIDATION=INSUFFICIENT",
+    "scope": "cross-corpus",
+    "limitations": "Three-volume reproduction complete; non-Cœur validation still INSUFFICIENT"
+  }
+]

@@ -1,0 +1,55 @@
+# OS / editor temp
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.~*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node (none currently used, but defensive)
+node_modules/
+npm-debug.log*
+
+# Temporary bundles / scratch
+/tmp/
+/scratch/
+*.zip
+*.tar.gz
+*.tar
+*.tgz
+
+# Large raw downloads (private)
+raw/user/
+raw/private/
+
+# Agent runtime outputs
+.hermes-runtime/
+hermes_logs/
+*.agent_history.json
+
+# Local-only internal mapping (kept private, regenerable)
+local_overrides/
+
+# OS
+.idea/
+.vscode/
+
+# Allow listed
+!assets/public/.gitkeep
+!docs/.gitkeep
+!data/public/.gitkeep
+
+# Cross-project docs that may exist alongside Moebius archive (kept on disk but excluded from public release)
+docs/F5_F6A_INTERPRETATION_RECONCILIATION.md
+docs/F5_*
+docs/F6A_*
